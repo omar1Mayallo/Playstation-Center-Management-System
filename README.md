@@ -51,13 +51,3 @@ To run the application properly, you need to set up the following environment va
 Make sure to create a `.env` file in the root directory of your server application and provide the appropriate values for these environment variables.
 
 Note: It is important to keep the `.env` file secure and not share it publicly, as it may contain sensitive information such as database credentials and secret keys.
-
-## API
-
-
-
-
-
-
-
-

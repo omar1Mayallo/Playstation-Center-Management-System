@@ -1,6 +1,9 @@
 # Playstation Center Management System
 While enjoying 🎮 PlayStation 🎮 gaming sessions with my friends 😁 at a local PlayStation center, I noticed that they have a system in place to calculate the time we spend on each gaming device. Inspired by this, I decided to build a program with similar functionality, but with some additional features to enhance the overall experience. Thus, I created the PS Center Server, an API that allows you to track and manage gaming sessions, calculate playtime on different devices, and incorporate additional functionalities like snack ordering and more.
 
+## DEMO
+You Can See Demo From [Here](https://www.youtube.com/watch?v=c8LhBJ-cQFE)
+
 ## Client & Server `Code`
 The code for the client and server of this system can be found in the following repositories⇒
 

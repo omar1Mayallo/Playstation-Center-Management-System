@@ -19,7 +19,7 @@ I have utilized **_TypeScript as the primary programming language_** for both se
   - React
   - MaterialUI ⇒ React Component Library.
   - React-Query ⇒ Data Fetching and Caching, Server State Management.
-  - Zustand ⇒ Data Fetching and Caching, Client State Management.
+  - Zustand ⇒ Client State Management.
   - React-Hook-Form ⇒ Client Forms Validation.
   - Chart.js ⇒ Charts Components.
 
